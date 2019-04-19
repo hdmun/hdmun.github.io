@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 12,
+    "search.exclude": {
+        "**/_site": true,
+        "**/.sass-cache": true
+    },
+    "files.exclude": {
+        "**/_site": true,
+        "**/.sass-cache": true
+    }
+}
