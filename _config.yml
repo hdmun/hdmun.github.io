@@ -88,14 +88,14 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-120842609-1
+# google_analytics:      UA-120842609-1
 
 google_adsense_approval: false
-google_adsense_script: true
+google_adsense_script: false
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus: hungrysoul9-github-io
+disqus: hdmun-github-io
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
