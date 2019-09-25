@@ -27,11 +27,11 @@ title:                 hdmun
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  그냥 대충 쓸려고 만든 블로그
+  게임 개발자의 기술 블로그
 
 # 간단한 소개글 in sidebar
 tagline:               >
-  나를 위해 정리하는 개발, 기술 블로그
+  hdmun 기술 블로그
 
 # A list of keywords for your blog
 keywords:              []
