@@ -22,7 +22,7 @@
 
     {% unless include.excerpt %}
       <p><br></p>
-      <!--{% include google-adsense-7685999310.html %}-->
+      {% include google-adsense-7685999310.html %}
       <p><br></p>
     {% endunless %}
 
@@ -33,7 +33,7 @@
     {{ post.content }}
     <p><br></p>
     <p><br></p>
-    <!--{% include google-adsense-9864635473.html %}-->
+    {% include google-adsense-9864635473.html %}
   {% else %}
     {{ post.excerpt }}
     {% capture post_title %}<a class="heading flip-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>{% endcapture %}
