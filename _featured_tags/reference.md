@@ -3,9 +3,9 @@ layout: list
 title: Reference
 slug: reference
 menu: true
-order: 1
+order: 100
 description: >
-  지속적으로 참고할만한 사이트나 자료들을 올려놓습니다.
+  참고할만한 사이트나 자료들을 올려놓습니다.
 accent_color: '#268bd2'
 accent_image:
   background: '#202020'
