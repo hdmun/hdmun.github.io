@@ -128,3 +128,12 @@ comments: true
 ~~~
 
 개인적인 생각으로는 `WIN32_LEAN_AND_MEAN` 매크로를 정의하는 방법이 좋다고 생각한다. 불필요한 헤더를 줄이게 되고, 특정 헤더가 필요 할 때 추가하면 되니까.
+
+# references
+
+https://javawoo.tistory.com/42
+http://egloos.zum.com/sweeper/v/1940473
+https://docs.microsoft.com/en-us/windows/win32/winprog/using-the-windows-headers
+https://m.blog.naver.com/PostView.nhn?blogId=sorkelf&logNo=40172871049&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+https://www.ikpil.com/596
+https://code1018.tistory.com/198
