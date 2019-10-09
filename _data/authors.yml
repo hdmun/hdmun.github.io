@@ -12,11 +12,11 @@ hdmun:
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            /assets/img/authors/hdmun-128x128.JPG
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            /assets/img/authors/hdmun-128x128.JPG
+      2x:            /assets/img/authors/hdmun-256x256.JPG
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -71,7 +71,7 @@ author2:
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
     Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
+  picture:           /assets/img/authors/hdmun-128x128.JPG
   twitter:           <username>
   github:            <username>
   accent_color:      '#268bd2'
