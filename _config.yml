@@ -90,7 +90,7 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 # To remove Google Anaylics from your page, remove the line below.
 google_analytics:      UA-144729693-1
 
-google_adsense_approval: false
+google_adsense_approval: true
 google_adsense_script: false
 
 # Setting a disqus shortname will enable the comment section on
