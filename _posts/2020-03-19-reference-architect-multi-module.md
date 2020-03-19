@@ -3,7 +3,7 @@ layout: post
 title: "멀티모듈 설계 이야기 with Spring, Gradle (by. 권용근 님)"
 description: >
  우아한 형제들 기술 블로그
-tags: [article]
+tags: [reference, article]
 author: hdmun
 comments: true
 ---
