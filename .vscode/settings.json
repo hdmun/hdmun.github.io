@@ -1,5 +1,5 @@
 {
-    "editor.fontSize": 12,
+    "editor.fontSize": 16,
     "search.exclude": {
         "**/_site": true,
         "**/.sass-cache": true
