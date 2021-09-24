@@ -39,3 +39,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'html-proofer'
 gem 'rubocop'
 gem 'w3c_validators'
+gem 'webrick'
