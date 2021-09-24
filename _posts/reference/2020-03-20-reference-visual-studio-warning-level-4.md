@@ -8,8 +8,6 @@ author: hdmun
 comments: true
 ---
 
-# #cpp #visual_studio 내가 warning level 4로 만들어 봐서 아는데 (by. ohyecloudy)
-
 [#cpp #visual_studio 내가 warning level 4로 만들어 봐서 아는데 원본 글 링크](http://ohyecloudy.com/pnotes/archives/visual-studio-warning-level-4/)
 
 

@@ -8,8 +8,6 @@ author: hdmun
 comments: true
 ---
 
-# 멀티모듈 설계 이야기 with Spring, Gradle (by. 권용근 님)
-
 [멀티모듈 설계 이야기 with Spring, Gradle](https://woowabros.github.io/study/2019/07/01/multi-module.html)
 
 독립적인 시스템을 가진 멀티 모듈 프로젝트에서 사용하는 공통 모듈이 시간이 지나면서 가지는 문제점과 이를 해결하기 위한 방법을 제시하고 있다.
