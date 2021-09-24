@@ -8,9 +8,6 @@ author: hdmun
 comments: true
 ---
 
-> https://blog.outsider.ne.kr/1159
-
-
 로컬 호스트 서버를 외부에서 접속 가능하게 만들어 주는 툴이다. 
 
 개발 환경에서 가끔 외부 접속 테스트를 할 경우가 생기는데, 별도로 세팅하려면 방화벽 설정 등 너무 손이 많이 간다.
@@ -64,6 +61,7 @@ comments: true
 
 # Reference
 
-https://velog.io/@nawnoes/express%EC%97%90%EC%84%9C-ngrok%EC%9C%BC%EB%A1%9C-%EC%99%B8%EB%B6%80%EC%97%90-%EC%84%9C%EB%B2%84-%EA%B3%B5%EA%B0%9C%ED%95%98%EA%B8%B0
+[ngrok으로 로컬 네트워크의 터널 열기](https://blog.outsider.ne.kr/1159)
+[express에서 ngrok으로 외부에 서버 공개하기](https://velog.io/@nawnoes/express%EC%97%90%EC%84%9C-ngrok%EC%9C%BC%EB%A1%9C-%EC%99%B8%EB%B6%80%EC%97%90-%EC%84%9C%EB%B2%84-%EA%B3%B5%EA%B0%9C%ED%95%98%EA%B8%B0)
 
 
