@@ -2,7 +2,7 @@
 layout: post
 title: "DWM 레코더 개발 01 - 시작"
 description: >
-DWM을 사용한 프로세스 녹화 모듈 개발
+  DWM을 사용한 프로세스 녹화 모듈 개발
 tags: [devlog, toy-project, windows, cpp, dwm, 화면녹화]
 author: hdmun
 comments: true
