@@ -3,7 +3,7 @@ layout: page
 title: Markdown Sample
 description: >
   Markdown 사용법을 익히기 위해 About.md 내용을 따로 빼놨습니다.
-menu: true
+menu: false
 order: 999
 ---
 
