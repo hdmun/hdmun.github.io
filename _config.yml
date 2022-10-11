@@ -95,7 +95,7 @@ google_adsense_script: false
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus: hdmun-github-io
+# disqus: hdmun-github-io
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
