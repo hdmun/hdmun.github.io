@@ -1,13 +1,11 @@
 {
-    "editor.fontSize": 16,
-    "search.exclude": {
-        "**/_site": true,
-        "**/.sass-cache": true,
-        "**/.jekyll-cache": true,
-    },
-    "files.exclude": {
-        "**/_site": true,
-        "**/.sass-cache": true,
-        "**/.jekyll-cache": true,
-    }
+  "files.exclude": {
+    "**/_site": true,
+    "*.gem": true,
+    ".bundle": true,
+    ".sass-cache": true,
+    "_site": true,
+    "Gemfile.lock": true,
+  },
+  "editor.tabSize": 2
 }

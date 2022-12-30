@@ -3,7 +3,8 @@ layout: post
 title: "WinSock2.h 사용시 재정의 빌드 에러 해결법"
 description: >
  간단한 해결법이지만 자꾸 까먹어서 기록해놓는다.
-tags: [dev, windows]
+categories: [windows]
+tags: [socket, windows]
 author: hdmun
 comments: true
 ---
