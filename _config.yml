@@ -50,6 +50,7 @@ yat:
 
 # Google analytics
 google_analytics: [UA-144729693-1]
+google_adsense_script: true
 
 # If you want to generate website sitemap, you can set true
 # sitemap: false
