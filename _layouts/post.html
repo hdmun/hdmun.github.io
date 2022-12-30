@@ -61,6 +61,8 @@ sidebar:
     <div class="post-comments">
       {%- if page.comments != false -%}
 
+      {%- include extensions/comments/utteranc.html -%}
+
       {%- if site.disqus.shortname -%}
       {%- include extensions/comments/disqus.html -%}
       {%- endif -%}
