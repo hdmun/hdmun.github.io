@@ -1,3 +1,5 @@
+<!-- 토글 비활성화 -->
+<!--
 <div class="theme-toggle">
   <input type="checkbox" id="theme-switch">
   <label for="theme-switch">
@@ -8,6 +10,7 @@
     </div>
   </label>
 </div>
+-->
 
 {%- assign name = 'night_mode' -%}
 {%- include functions.html func='get_value' default='auto' -%}
@@ -22,6 +25,8 @@
         ? localStorage
         : sessionStorage;
     var themeData = loadThemeData();
+    
+    storage.removeItem('theme'); // 이미 한 번 세팅된 경우 변경이 불가능하니 강제로 지워주자
 
     function saveThemeData(data) {
       storage.setItem('theme', JSON.stringify(data));
@@ -43,7 +48,9 @@
       saveThemeData(themeData);
       html.dataset.theme = nightShift ? 'dark' : 'light';
       setTimeout(function() {
-        sw.checked = nightShift ? true : false;
+        if (sw?.checked ?? false) {
+          sw.checked = nightShift ? true : false;
+        }
       }, 50);
     }
 
@@ -81,7 +88,7 @@
     }
 
     // Listen the theme toggle event
-    sw.addEventListener('change', function(event) {
+    sw?.addEventListener('change', function(event) {
       handleThemeToggle(event.target.checked);
     });
 
