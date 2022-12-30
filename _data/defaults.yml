@@ -1,4 +1,6 @@
-home:
-  heading: "Your awesome heading"
-  subheading: "Your awesome subheading"
-  banner: "Your image url"
+# 페이지별 디폴트 속성 세팅하는 곳 인것 같다
+
+# home:
+#   heading: "Your awesome heading"
+#   subheading: "Your awesome subheading"
+#   banner: "Your image url"
